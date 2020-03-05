@@ -7,4 +7,4 @@ This application use sing inquirer and axios to request information from the inp
 
 
 
-![alt text](./WhitePeachTea.pdf)
+![alt pdf](./WhitePeachTea.pdf)
